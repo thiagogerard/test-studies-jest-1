@@ -1,0 +1,19 @@
+{
+  "name": "testes-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^8.16.0",
+    "globals": "^17.3.0",
+    "jest": "28.1.0"
+  }
+}
